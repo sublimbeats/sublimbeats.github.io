@@ -8,6 +8,10 @@ h1, h2 {
 	color: #c49e37;
 }
 
-h1 small, h2 small {
+h1 small {
 	font-size: 80%;
+}
+
+h2 small {
+	font-size: 70%;
 }
