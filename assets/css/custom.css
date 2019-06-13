@@ -16,6 +16,7 @@ h2 small {
 	font-size: 70%;
 }
 
-a:hover {
-  color: #c49e37;
+input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover, button:hover, .button:hover {
+    box-shadow: inset 0 0 0 1px #c49e37;
+    color: #c49e37 !important;
 }
