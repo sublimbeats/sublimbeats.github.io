@@ -78,6 +78,14 @@ input, select, textarea {
 	height: 120px;
 }
 
+h1 {
+	color: #c49e37;
+}
+
+h1 small {
+	font-size: 80%;
+}
+
 /* Basic */
 
 	@-ms-viewport {
