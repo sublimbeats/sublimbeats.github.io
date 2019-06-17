@@ -20,3 +20,10 @@ input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hove
     box-shadow: inset 0 0 0 1px #c49e37;
     color: #c49e37 !important;
 }
+
+.banner.style1.image-position-right .image img {
+    -moz-object-position: left;
+    -webkit-object-position: left;
+    -ms-object-position: left;
+    object-position: left;
+}
