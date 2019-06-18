@@ -30,10 +30,6 @@ input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hove
 
 @media screen and (orientation: portrait) {
 	.logo {
-		-moz-flex-direction: column-reverse;
-		-webkit-flex-direction: column-reverse;
-		-ms-flex-direction: column-reverse;
-		flex-direction: column-reverse;
-		text-align: center;
+		margin: 0 auto;
 	}
 }
