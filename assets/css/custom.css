@@ -28,8 +28,13 @@ input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hove
     object-position: left;
 }
 
+ul {
+	list-style: none;
+}
+
 @media screen and (orientation: portrait) {
 	.logo {
 		margin: 0 auto;
 	}
 }
+
